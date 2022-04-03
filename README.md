@@ -13,10 +13,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://facebook.com/Elias Fiseha" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=ifacebookstyle="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebookstyle="margin-bottom: 5px;" />
 </a>
 <a href="https://gmail.com.com/tecaddis@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23292929.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/gmail-%23292929.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
 </a>  
   
 ### I'm glad to see you here!  
