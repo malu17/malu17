@@ -58,12 +58,15 @@ Developer with the ability to analyze and solve problems of high complexity and 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eliasfisehass&show_icons=true&theme=onedark" align="left" style="width: 100%" />
+[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | 
+[GitHub](https://github.com/malu17)
+
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasfiseha&show_icons=true&theme=onedark" align="left" style="width: 100%" />
- 
+[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | 
+[GitHub](https://github.com/malu17)
+
 </td></tr></table>  
 
 
