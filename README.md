@@ -25,7 +25,7 @@ elias is a Fullstack Developer with experience in projects related to web develo
 Developer with the ability to analyze and solve problems of high complexity and ambiguity. With skills to design and implement solutions according to the company context.
 
 - 🌱 I’m currently learning React and acca.
-- 😀 I like drawing with charcoal and pencil :, reading :books:, programming, :computer:, piano :musical_keyboard: and playing football:ball:. 
+- 😀 I like drawing with charcoal and pencil :, reading :books:, programming, :computer:,  and playing football:ball:. 
 - 📫 Read my blogs: [eliasfiseha](https://twitter.com/@eliasfiseha1).
 - 💬 Ask me about anything an everything.
 - 🎯 email: [tecaddis@gmail.com}]- ⚡ Fun fact: dream programming!
