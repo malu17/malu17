@@ -2,10 +2,6 @@
 
 ![hh](https://cdn-images-1.medium.com/max/1200/1*HON5oXLaNlY6Fkaw593AuA.png)
 
-<p align="center">
-  <img src="https://github.com/malu17/portfolio-old/blob/main/images/github.gif?raw=true" style="max-width:200%;">
-</p>
-<br>
 
 <a href="https://github.com/malu17" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
