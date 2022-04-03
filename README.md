@@ -1,6 +1,5 @@
-<h1 align="center">
-Hi!, I'm Elias the brana!
-</h1>
+[hh](https://cdn-images-1.medium.com/max/1200/1*HON5oXLaNlY6Fkaw593AuA.png)
+
 
 <p align="center">
   <img src="https://github.com/malu17/portfolio-old/blob/main/images/github.gif?raw=true" style="max-width:200%;">
@@ -51,6 +50,11 @@ Developer with the ability to analyze and solve problems of high complexity and 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="55" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="55" />  
 
+## :mega: Acknowledgments
+
+* alx School (providing guidance)
+[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17)
+
 </div>  
 
 <br/>  
@@ -68,7 +72,3 @@ Developer with the ability to analyze and solve problems of high complexity and 
 
 
 <br/>  
-
-
-
-
