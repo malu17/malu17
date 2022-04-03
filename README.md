@@ -1,6 +1,6 @@
-                       [hh]
-(https://cdn-images-1.medium.com/max/1200/1*HON5oXLaNlY6Fkaw593AuA.png)
+# a detailed study of engineering to the design, development and maintenance of software
 
+![hh](https://cdn-images-1.medium.com/max/1200/1*HON5oXLaNlY6Fkaw593AuA.png)
 
 <p align="center">
   <img src="https://github.com/malu17/portfolio-old/blob/main/images/github.gif?raw=true" style="max-width:200%;">
