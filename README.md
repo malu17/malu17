@@ -17,10 +17,10 @@ Hi!, I'm Elias the brana!
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://facebook.com/Elias Fiseha" target="_blank">
-<img src=https://img.shields.io/badge/ifacebook-%23000000.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=ifacebookstyle="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/facebook-%23000000.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=ifacebookstyle="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@estebandelahoz" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<a href="https://gmail.com.com/tecaddis@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23292929.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>  
   
 ### I'm glad to see you here!  
@@ -29,7 +29,7 @@ elias is a Fullstack Developer with experience in projects related to web develo
 Developer with the ability to analyze and solve problems of high complexity and ambiguity. With skills to design and implement solutions according to the company context.
 
 - 🌱 I’m currently learning React and acca.
-- 😀 I like video game :video_game:, reading :books:, programming, :computer:, piano :musical_keyboard: and playing the guitar :guitar:. 
+- 😀 I like drawing with charcoal and pencil :, reading :books:, programming, :computer:, piano :musical_keyboard: and playing football:ball:. 
 - 📫 Read my blogs: [eliasfiseha](https://twitter.com/@eliasfiseha1).
 - 💬 Ask me about anything an everything.
 - 🎯 email: [tecaddis@gmail.com}]- ⚡ Fun fact: dream programming!
