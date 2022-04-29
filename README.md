@@ -1,7 +1,6 @@
 # a detailed study of engineering to the design, development and maintenance of software
 
-![hh](https://cdn-images-1.medium.com/max/1200/1*HON5oXLaNlY6Fkaw593AuA.png)
-
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
 <a href="https://github.com/malu17" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
