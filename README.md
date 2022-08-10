@@ -1,6 +1,7 @@
 # a detailed study of engineering to the design, development and maintenance of software
 
-![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+<h2 align="center">Software Engineer. 💻</h2>
+<center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
 
 <a href="https://github.com/malu17" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
