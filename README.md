@@ -21,9 +21,10 @@ Esml Software Developers. 💻</h2>
 </a>  
   
 ### I'm glad to see you here!  
-elias is a Fullstack Developer with experience in projects related to web development (Python, JavaScript, Flask, Django, Node), low-level programming (C, Bash). Proficient in version control systems (Git), databases (SQL) and RESTful APIs. Lifelong learner, curious, team player and passionate about technology. elias is in the process of pursuing a degree in Systems Engineering with a strong emphasis on programming.
+## elias is a Fullstack Developer with experience in projects related to web development (Python, JavaScript, Flask, Django, Node), low-level programming (C, Bash). Proficient in version control systems (Git), databases (SQL) and RESTful APIs. Lifelong learner, curious, team player and passionate about technology. elias is in the process of pursuing a degree in Systems Engineering with a strong emphasis on programming.
 
-Developer with the ability to analyze and solve problems of high complexity and ambiguity. With skills to design and implement solutions according to the company context.
+<h2 align="center">
+Developer with the ability to analyze and solve problems of high complexity and ambiguity. With skills to design and implement solutions according to the company context. 💻</h2>
 
 - 🌱 I’m currently learning React and acca.
 - 😀 I like drawing with charcoal and pencil :, reading :books:, programming, :computer:,  and playing football, 
