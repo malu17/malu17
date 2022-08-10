@@ -1,6 +1,7 @@
 # a detailed study of engineering to the design, development and maintenance of software
 
-<h2 align="center">Software Engineer. 💻</h2>
+<h2 align="center">
+Esml Software Developers. 💻</h2>
 <center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
 
 <a href="https://github.com/malu17" target="_blank">
@@ -26,8 +27,10 @@ Developer with the ability to analyze and solve problems of high complexity and 
 
 - 🌱 I’m currently learning React and acca.
 - 😀 I like drawing with charcoal and pencil :, reading :books:, programming, :computer:,  and playing football, 
-- 💬 Ask me about anything an everything.
-- 🎯 email: [tecaddis@gmail.com}]- ⚡ Fun fact: dream programming!
+- 💬 Ask me about **Linux, Docker, and the Cloud.**
+- 👯 I’m looking to collaborate on **thrilling projects.**
+- 🎯 - 📫 How to reach me: **tecaddis@gmail.com**
+⚡ Fun fact: dream programming!
 
 <br/>  
 
