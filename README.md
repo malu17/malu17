@@ -30,9 +30,9 @@ Developer with the ability to analyze and solve problems of high complexity and 
 - 😀 I like drawing with charcoal and pencil :, reading :books:, programming, :computer:,  and playing football, 
 - 💬 Ask me about **Linux, Docker, and the Cloud.**
 - 👯 I’m looking to collaborate on **thrilling projects.**
-- 🎯 - 📫 How to reach me: **tecaddis@gmail.com**
+- 📫 How to reach me: **tecaddis@gmail.com**
 ⚡ Fun fact: dream programming!
-
+- 🎯 [Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1)
 <br/>  
 
 
